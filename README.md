@@ -1,2 +1,2 @@
-## El juego del amigo secreto
-# ¡Atrevete!
+# El juego del amigo secreto
+### ¡Atrevete!
