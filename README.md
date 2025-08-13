@@ -4,7 +4,7 @@
 > En este archivo README.md encontraras lo necesario para que puedas
 > hacer uso de esta herramienta.
 
-**1️⃣Primero que nada accede a este link de descarga**
+**1️⃣Primero que nada accede a este link de descarga https://github.com/gardunohugo/Challenge-amigo-secreto.git**
 
 ### Esta carpeta zip esta compuesta por los siguientes archivos
 + app.js (Este archivo tiene el codigo que manipula la herramienta).
